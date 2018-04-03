@@ -1,0 +1,3125 @@
+﻿Tko {
+ SId ("eTakeoff")
+ Proj ("6BCF14CC-0F61-4B8B-AA7A-0770927102D3")
+ Id ("822056A2-4094-48DC-A5F4-84F954B521A8")
+ Typ ("11.080 Suspended Pboard Ceiling Key Lock Concealed Rondo 19 and 22,")
+ RfId (0)
+ Desc ("11.080 Suspended Pboard Ceiling Key Lock Concealed Rondo 19 and 22,")
+}
+Res {
+ Id ("              11.080")
+ Typ ("A")
+ Desc ("11.080 Suspended Pboard Ceiling Key Lock Concealed Rondo 19 and 22,")
+}
+Pass {
+ PTko (0)
+ Asn {
+  Tko (-2)
+  TVar ("#Description#")
+  Val ("11.080 Suspended Pboard Ceiling Key Lock Concealed Rondo 19 and 22,")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Area")
+  TVar ("Ceiling Area")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("CeilingFixMethod")
+  TVar ("Ceiling Fix Method")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Mainrunnercentre")
+  TVar ("Main runner centre")
+  Val ("1200")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("SuspRoddrop")
+  TVar ("Susp Rod drop")
+  Val ("150")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("SuspRodType")
+  TVar ("Susp Rod Type")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("TopCrossRailSize")
+  TVar ("Top Cross Rail Size")
+  Val ("25")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("FurringChCentre")
+  TVar ("Furring Ch Centre")
+  Val ("600")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("UsingSuspClip")
+  TVar ("Using Susp Clip?")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Perimeter")
+  TVar ("Ceiling Perimeter")
+  Val ("14.961")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("PboardSheetLth")
+  TVar ("Pboard Sheet Lth")
+  Val ("2.7")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("PboardTypeLay1")
+  TVar ("Pboard Type Lay 1")
+  Val ("2")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("NoofLayers")
+  TVar ("No of Layers")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Usingmetrerates")
+  TVar ("Using metre rates?")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("CeilingTrimType")
+  TVar ("Ceiling Trim Type")
+  Val ("3")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("SquareColumnNo")
+  TVar ("Square Column No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("CircularColumnNo")
+  TVar ("Circular Column No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("DownlightCutoutNo")
+  TVar ("Downlight Cutout No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("RecessLightNo")
+  TVar ("Recess Light No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("ACRegisterNo")
+  TVar ("AC Register No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("SprinklerNo")
+  TVar ("Sprinkler No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("SpeakerNo")
+  TVar ("Speaker No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("RakeCuttinglm")
+  TVar ("Rake Cutting lm")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("AccessPanelNo")
+  TVar ("Access Panel No")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("ExpansionJointlm")
+  TVar ("Expansion Joint lm")
+  Val ("0")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("anyinsulation")
+  TVar ("any insulation?")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Using Insulation?")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("InsulationType")
+  TVar ("Insulation Type")
+  Val ("3")
+  MTko (0)
+}
+}
+Item {
+ Id ("1")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Com Ceiling Fix")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.120|            247")
+ Qty (5.9080)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("247")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Susp-rod bracket to Conc ron247")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("5.908")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("3")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Sus Rod TOE Thread")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.140|            121")
+ Qty (3.8360)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.140")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("121")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("5mm Soft Gal Susp Rod Ron121")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("3.836")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.130|            127")
+ Qty (7.1070)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("127")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Top cross rail 25mm 3.6 Ron127")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("7.107")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.010|            128")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.010")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("128")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Top Cross rail 38mm 0.55 BMT Ron 125")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.060|            139")
+ Qty (11.3890)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.060")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("139")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Furring Channel Locking Clip Ro 139")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("11.389")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.020|           1292")
+ Qty (14.9000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.020")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("1292")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fur-Channel 28mm 3.6  Ron129")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("14.9")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.090|           2534")
+ Qty (5.9080)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.090")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("2534")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Sidemounted clip")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("5.908")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.140|            826")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.140")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("826")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("m6 nut ron")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.080|            140")
+ Qty (14.9610)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.080")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("140")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fur Chl Wall Track 3000 Ron140")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("14.961")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("12")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("PBoard Type Ceil 1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.040|           0030")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.040")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0030")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("13mm R/E MastaShield  2.7 x 1.2m")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("14")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("PBoard Type Ceil 2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("15")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("PBoard Type Ceil 3")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|             40")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("40")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("MastaBase Bedding Cement 20kg")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|             10")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("10")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Paper Tape 75m Roll")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|             60")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("60")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("MastaFinish Finishing Compound 20kg")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|             30")
+ Qty (77.0670)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("30")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("25mm Plasterboard Screws")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("77.067")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|            130")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("20mm Villaboard Screws")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("21")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Sheet Ceil 1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.020|L055")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.020")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L055")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Sheeting (10&13) 1Layer-1Side")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("23")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Sheet Ceil 2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("24")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Sheet Ceil 3")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.110|L550")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.110")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L550")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Set&Sand (screw-up) 1Layer")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.110|L850")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.110")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L850")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Set&Sand (screw-up) 1Layer M2 Rate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.110|L540")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.110")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L540")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Grid (screw-up)")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.110|L840")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.110")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L840")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Grid (screw-up) M2 Rate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("29")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Ceiling Trim Type")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              22.190|             30")
+ Qty (14.9610)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("22.190")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("30")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Lipped Wall Angle Trim 3.6 rON dUO 5")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("14.961")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("31")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Ceiling Trim Labour")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.140|L1004")
+ Qty (14.9610)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.140")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L1004")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Fix Lipped Wall Angle Trim")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("14.961")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              14.130|            150")
+ Qty (14.9610)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("14.130")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("150")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("25mm Nylon Anchors x 6.5")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("14.961")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L800")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L800")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Cut and Trim Columns Square")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L802")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L802")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Cut and Trim Columns Circular")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L804")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L804")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Cut Holes for Downlights PBoard")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L808")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L808")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Recess Lights PBorad")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L812")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L812")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for AC Registers - Pboard")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L816")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L816")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Sprinklers")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L818")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L818")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Speakers")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L820")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L820")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Rake Cutting")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L822")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L822")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Access Panels")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("each")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              19.120|L824")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("19.120")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("L824")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour for Expansion Joints")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("lm")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("44")
+ Qty (0.0000)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Insulation")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Floor")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              15.040|           0420")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("15.040")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0420")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Glasswool Insulation 75m thick, in 50 m rolls")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("m2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              61.000|           0020")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("61.000")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0020")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Sealer Undercoat to ceilings")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("M2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              61.000|           0060")
+ Qty (17.1260)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("61.000")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0060")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Ceiling Paint to ceilings")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("17.126")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("M2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              62.000|           0020")
+ Qty (8.5630)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("62.000")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0020")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour Sealer Undercoat to ceilings")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("8.563")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("M2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+Item {
+ Id ("              62.000|           0060")
+ Qty (17.1260)
+ Asn {
+  Tko (-2)
+  TVar ("Phase")
+  Val ("62.000")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Item")
+  Val ("0060")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Description")
+  Val ("Labour Ceiling Paint to ceilings")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Quantity")
+  Val ("17.126")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit")
+  Val ("M2")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Location")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Alternate")
+  MTko (0)
+}
+ Asn {
+  Tko (0)
+  FVar ("Floor")
+  TVar ("Floor")
+  Val ("1")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Bid Item")
+  MTko (0)
+}
+ Asn {
+  Tko (-2)
+  TVar ("Unit ")
+  MTko (0)
+}
+}
+AsnId ("       1")
